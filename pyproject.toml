@@ -3,10 +3,10 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "latent-diffusion"
+name = "taming-transformers"
 version = "0.0.1"
 description = "README.md"
-license = {file="LICENSE"}
+license = {file="License.txt"}
 requires-python = ">=3.8"
 dependencies = [
      "albumentations>=0.4.3",
