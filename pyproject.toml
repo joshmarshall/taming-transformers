@@ -23,7 +23,7 @@ dependencies = [
      "transformers>=4.3.1"
 ]
 
-[tools.setuptools]
+[tool.setuptools]
 packages = ["taming"]
 
 [project.urls]
